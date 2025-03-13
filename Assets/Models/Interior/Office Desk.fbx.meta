@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 60ccd0ae8c9e3eb43bce4d6a092bd539
+guid: 3e3ce97180198a046ac19ed20491e974
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,23 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: (Mat)GradientBlack
-    second: {fileID: 2100000, guid: c73b7265343b8ec479a4b299ff0f07a9, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: (Mat)GradientBrown
-    second: {fileID: 2100000, guid: 3a336895101c2a44990601d2cc619d4d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: (Mat)GradientDarkBrown
-    second: {fileID: 2100000, guid: 43946b2c266aa3b49a95a3d29e16e24e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: (Mat)GradientGrey
-    second: {fileID: 2100000, guid: 5f5d5655f7398ab48b9db2db8d31b4f1, type: 2}
+      name: Material.002
+    second: {fileID: 2100000, guid: e4cb9461f8a1c834cab5fcc6aabea6a7, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
